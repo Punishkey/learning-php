@@ -1,4 +1,4 @@
-# learning-to-program
+# learning PHP
 Aprende a programar PHP.
 
 Con la IA, he recopilado todo lo que se puede aprender de este fantástico lenguaje. Guardado por si a alguien le sirve.
